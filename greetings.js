@@ -16,3 +16,5 @@ if (time < 12) {
 } else {
   greeting = "Good Evening";
 }
+
+console.log(`${greeting}, ${name}`);
